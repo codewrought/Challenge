@@ -11,12 +11,12 @@ public class Rectangle implements Shape {
 	}
 	
 	public float calculateArea() {
-		// Implement me!!!
+		// TODO Implement me!!!
 		return 0.0f;
 	}
 	
 	public float calculatePerimeter() {
-		// Implement me!!!
+		// TODO Implement me!!!
 		return 0.0f;
 	}
 
